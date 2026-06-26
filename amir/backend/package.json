@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "denv": "^1.0.4",
+    "express": "^5.2.1",
+    "mongoose": "^9.7.2",
+    "nodemon": "^3.1.14"
+  }
+}
